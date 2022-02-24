@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @smsanagustin
+- 👋 Hi, I’m Sophia.
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning computer science.
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
