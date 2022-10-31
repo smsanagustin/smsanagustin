@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sophia.
 - 👀 I’m interested in mobile and web development.
-- 🌱 I’m currently planning on creating a personal website, or maybe start building one of my app ideas.
+- 🌱 I'm currently on Week 9 (Flask) of Harvard's CS50.
 
 <!---
 smsanagustin/smsanagustin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
