@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sophia.
-- 👀 I’m interested in mobile and web development.
+- 👀 I’m interested in frontend development.
 - 🌱 I'm currently on Week 9 (Flask) of Harvard's CS50.
 
 <!---
